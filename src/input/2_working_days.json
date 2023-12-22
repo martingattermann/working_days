@@ -1,0 +1,65 @@
+{ 
+    "days": {
+      "total": 30,
+      "mondays": 5,
+      "tuesdays": 5,
+      "wednesdays": 4,
+      "thursdays": 4,
+      "fridays": 4,
+      "saturdays": 4,
+      "sundays": 4,
+      "hours": 719.98333333333
+    },
+    "working_days": {
+      "total": 21,
+      "mondays": 4,
+      "tuesdays": 5,
+      "wednesdays": 4,
+      "thursdays": 4,
+      "fridays": 4,
+      "saturdays": 0,
+      "sundays": 0,
+      "work_hours": 168,
+      "wages": 3360
+    },
+    "weekend_days": {
+      "total": 8,
+      "mondays": 0,
+      "tuesdays": 0,
+      "wednesdays": 0,
+      "thursdays": 0,
+      "fridays": 0,
+      "saturdays": 4,
+      "sundays": 4
+
+    },
+    "public_holidays": {   
+      "total": 1,
+      "mondays": 1,
+      "tuesdays": 0,
+      "wednesdays": 0,
+      "thursdays": 0,
+      "fridays": 0,
+      "saturdays": 0,
+      "sundays": 0,
+      "list":  [
+        {
+          "date": "2013-04-02",
+          "description" : "Osterdienstag",
+          "free": true
+        }
+      ]
+    },
+    "custom_dates": {   
+      "total": 0,
+      "mondays": 0,
+      "tuesdays": 0,
+      "wednesdays": 0,
+      "thursdays": 0,
+      "fridays": 0,
+      "saturdays": 0,
+      "sundays": 0,
+      "list":  [
+     ]
+    }
+}
