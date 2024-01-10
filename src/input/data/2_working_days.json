@@ -46,7 +46,7 @@
         {
           "date": "2013-ß3-31",
           "description" : "Ostersonntag",
-          "free": true
+          "free": [true, false]
         }
       ]
     },
